@@ -1,3 +1,9 @@
+# BotChance
+
+Website: [https://botchance.com](https://botchance.com)
+
+This document provides the initial 1000 GPTs. For more, please visit [https://botchance.com](https://botchance.com).
+
 # [100000BC Designer](https://botchance.com/gpt-store/character-ai/100000bc-designer)
 
 Ancient physical solution maker

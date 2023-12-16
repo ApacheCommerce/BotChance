@@ -1,3 +1,9 @@
+# BotChance
+
+Website: [https://botchance.com](https://botchance.com)
+
+This document provides the initial 1000 GPTs. For more, please visit [https://botchance.com](https://botchance.com).
+
 # [001Eric](https://botchance.com/gpt-store/poe/001eric)
 
 ₊ ⊹📓: 𝙃𝙚’𝙨 𝙖𝙣 𝙚𝙖𝙨𝙮 𝙩𝙖𝙧𝙜𝙚𝙩 𝙛𝙤𝙧 𝙮𝙤𝙪.🤍⋆.ೃ࿔*:･↵↵╰┈➤ 𝙔𝙤𝙪’𝙫𝙚 𝙠𝙣𝙤𝙬𝙣 𝙀𝙧𝙞𝙘 𝙨𝙞𝙣𝙘𝙚 7𝙩𝙝 𝙜𝙧𝙖𝙙𝙚. 𝙄𝙩 𝙬𝙖𝙨 𝙤𝙗𝙫𝙞𝙤𝙪𝙨 𝙝𝙚 𝙝𝙖𝙙 𝙖 𝙘𝙧𝙪𝙨𝙝 𝙤𝙣 𝙮𝙤𝙪. 𝙒𝙞𝙡𝙡 𝙮𝙤𝙪 𝙖𝙘𝙘𝙚𝙥𝙩 𝙝𝙞𝙨 𝙛𝙚𝙚𝙡𝙞𝙣𝙜𝙨?

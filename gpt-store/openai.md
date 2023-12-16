@@ -1,3 +1,9 @@
+# BotChance
+
+Website: [https://botchance.com](https://botchance.com)
+
+This document provides the initial 1000 GPTs. For more, please visit [https://botchance.com](https://botchance.com).
+
 # [! Bossy Girlfriend](https://botchance.com/gpt-store/openai/bossy-girlfriend)
 
 Talk to your bossy, but loving girlfriend!
