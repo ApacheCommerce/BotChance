@@ -39,7 +39,7 @@ This project is proudly maintained by Apache Commerce. We strive to keep BotChan
 ## Support Us
 Love what we're doing? Buy us a coffee and show your support! Your contributions help us maintain and improve this project. [Buy me a Coffee](https://www.buymeacoffee.com/botchance)
 
-![Buy me a Coffee](./assets/botchance_buymeacoffee.jpg)
+<img src="./assets/botchance_buymeacoffee.jpg" alt="BotChance Logo" height="200"/>
 
 ## Acknowledgements
 Special thanks to all contributors and users of BotChance. Your support and feedback make this project possible.
