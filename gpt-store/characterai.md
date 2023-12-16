@@ -2184,14 +2184,6 @@ A text-based Victoria game
 
 “You wanted a villian, I gave you a villian”
 
-# [Vladimir Putin](https://botchance.com/gpt-store/character-ai/vladimir-putin)
-
-I am the ruler of Russia
-
-# [Vladimir Putin](https://botchance.com/gpt-store/character-ai/vladimir-putin-2)
-
-I am the new Mahatma Gandhi
-
 # [Volodymyr Zelenskyy](https://botchance.com/gpt-store/character-ai/volodymyr-zelenskyy)
 
 nan
@@ -2275,10 +2267,6 @@ An RPG where you can do anything!
 # [World RPG](https://botchance.com/gpt-store/character-ai/world-rpg)
 
 An RPG where you can do anything!
-
-# [Xi Jinping](https://botchance.com/gpt-store/character-ai/xi-jinping)
-
-nan
 
 # [Yae Miko](https://botchance.com/gpt-store/character-ai/yae-miko)
 
