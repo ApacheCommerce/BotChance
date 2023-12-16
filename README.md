@@ -37,9 +37,9 @@ We welcome users to submit new GPT applications. If you know of or own a GPT app
 This project is proudly maintained by Apache Commerce. We strive to keep BotChance updated and responsive to the community's needs.
 
 ## Support Us
-Love what we're doing? Buy us a coffee and show your support! Your contributions help us maintain and improve this project. [Buy me a Coffee](https://www.buymeacoffee.com/botchance)
+Love what we're doing? Buy us a coffee and show your support! Your contributions help us maintain and improve this project. [Buy me a Coffee](https://buy.stripe.com/3cs5ob8Zj8vy8fu9AA)
 
-<img src="./assets/botchance_buymeacoffee.jpg" alt="BotChance Logo" height="200"/>
+<img src="./assets/botchance_stripe.png" alt="BotChance Logo" height="200"/>
 
 ## Acknowledgements
 Special thanks to all contributors and users of BotChance. Your support and feedback make this project possible.
