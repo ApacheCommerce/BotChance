@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ApacheCommerce/BotChance/blob/main/assets/botchance_logo.png" alt="BotChance Logo" height="40"/>
+  <img src="./assets/botchance_logo.png" alt="BotChance Logo" height="40"/>
 </p>
 <h1 align="center">The Leading Third-Party GPT Store</h1>
 
@@ -14,7 +14,7 @@ We developed a dedicated website, [BotChance.com](https://botchance.com), along 
 Whether you're in search of your favorite GPTs or eager to submit your own creations, BotChance serves as an accessible and comprehensive platform for all your needs.
 
 ## ScreenShot
-![ScreenShot](https://github.com/ApacheCommerce/BotChance/blob/main/assets/botchance_screenshot.png)
+![ScreenShot](./assets/botchance_screenshot.png)
 
 ## Features
 
@@ -38,6 +38,8 @@ This project is proudly maintained by Apache Commerce. We strive to keep BotChan
 
 ## Support Us
 Love what we're doing? Buy us a coffee and show your support! Your contributions help us maintain and improve this project. [Buy me a Coffee](https://www.buymeacoffee.com/botchance)
+
+![Buy me a Coffee](./assets/botchance_buymeacoffee.jpg)
 
 ## Acknowledgements
 Special thanks to all contributors and users of BotChance. Your support and feedback make this project possible.
