@@ -21,8 +21,8 @@ Whether you're in search of your favorite GPTs or eager to submit your own creat
 ### ✅ All GPTs
 BotChance includes numerous GPT applications from different platforms:
 - OpenAI: [31036] of GPTs. [See all GPTs](./gpt-store/openai.md)
-- CharacterAI: [5964] of GPTs. [See all GPTs](./gpt-store/characterai.md)
-- POE: [589] of GPTs. [See all GPTs](./gpt-store/poe.md)
+- POE: [5964] of GPTs. [See all GPTs](./gpt-store/poe.md)
+- CharacterAI: [589] of GPTs. [See all GPTs](./gpt-store/characterai.md)
 
 ### 🕒 Featured GPTs (Coming Soon)
 Discover our curated selection of featured GPTs that stand out for their unique capabilities and innovative features. [Explore now](https://botchance.com/gpt-tag/featured-gpts)
