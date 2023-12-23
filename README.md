@@ -3,6 +3,10 @@
 </p>
 <h1 align="center">The Leading Third-Party GPT Store</h1>
 
+## Updates
+23/12/2023: Added 34,554 new GPTs by OpenAI, totaling 72,294.
+15/12/2023: Initiated all GPTs, totaling 37,739.
+
 ## Welcome
 
 BotChance is a leading third-party GPT store, featuring a compilation of OpenAI, CharacterAI, and POE GPT Agents.
