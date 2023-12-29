@@ -28,6 +28,9 @@ BotChance includes numerous GPT applications from different platforms:
 - POE: [5964] of GPTs. [See all GPTs](./gpt-store/poe.md)
 - CharacterAI: [589] of GPTs. [See all GPTs](./gpt-store/characterai.md)
 
+### ✅ Latest GPTs
+Explore the newest GPTs recently added to BotChance. [Explore now](https://botchance.com)
+
 ### 🕒 Featured GPTs (Coming Soon)
 Discover our curated selection of featured GPTs that stand out for their unique capabilities and innovative features. [Explore now](https://botchance.com/gpt-tag/featured-gpts)
 
