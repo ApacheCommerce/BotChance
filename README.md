@@ -19,7 +19,7 @@ We developed a dedicated website, [BotChance.com](https://botchance.com), along 
 Whether you're in search of your favorite GPTs or eager to submit your own creations, BotChance serves as an accessible and comprehensive platform for all your needs.
 
 ## ScreenShot
-![ScreenShot](./assets/botchance_screenshot.png)
+![ScreenShot](./assets/botchance_screenshot_0102.png)
 
 ## Features
 
