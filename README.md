@@ -4,6 +4,7 @@
 <h1 align="center">The Leading Third-Party GPT Store</h1>
 
 ## Updates
+- 02/01/2024: Added 12,332 new GPTs by OpenAI, totaling 84,626.
 - 23/12/2023: Added 34,554 new GPTs by OpenAI, totaling 72,294.
 - 15/12/2023: Initiated all GPTs, totaling 37,739.
 
@@ -24,8 +25,8 @@ Whether you're in search of your favorite GPTs or eager to submit your own creat
 
 ### ✅ All GPTs
 BotChance includes numerous GPT applications from different platforms:
-- OpenAI: [65741] of GPTs. [See all GPTs](./gpt-store/openai.md)
-- POE: [5964] of GPTs. [See all GPTs](./gpt-store/poe.md)
+- OpenAI: [78,072] of GPTs. [See all GPTs](./gpt-store/openai.md)
+- POE: [5,964] of GPTs. [See all GPTs](./gpt-store/poe.md)
 - CharacterAI: [589] of GPTs. [See all GPTs](./gpt-store/characterai.md)
 
 ### ✅ Latest GPTs
